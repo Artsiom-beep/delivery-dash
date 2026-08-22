@@ -1,0 +1,59 @@
+# ---- Unity generated folders ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ee]xportedObj/
+Assets/[Aa]ssetStoreTools*
+Assets/**/_Recovery/
+Assets/**/_Recovery.meta
+
+# ---- IDE / editor ----
+.vs/
+.vsconfig
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Build artifacts ----
+sysinfo.txt
+*.apk
+*.aab
+*.app
+*.unitypackage
+crashlytics-build.properties
+
+# ---- Keep the published WebGL build in docs/ ----
+# The rules above ignore any root-level Build/ folder, but docs/Build is the
+# site served by GitHub Pages, so it stays tracked.
+!docs/Build/
+!docs/Build/**
+
+# ---- TextMesh Pro bundled samples ----
+# Unity's own demo scenes and scripts. Not used by the game, and keeping them
+# out means the repo's language stats reflect code that is actually mine.
+Assets/TextMesh Pro/Examples & Extras/
+Assets/TextMesh Pro/Examples & Extras.meta
