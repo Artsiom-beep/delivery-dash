@@ -26,5 +26,5 @@
 # ---- GitHub language statistics ----
 # Unity's bundled TextMesh Pro shaders and the exported WebGL build are not
 # my code, so they should not drown out the C# in the language bar.
-Assets/TextMesh[ ]Pro/** linguist-vendored
+"Assets/TextMesh Pro/**" linguist-vendored
 docs/** linguist-generated
